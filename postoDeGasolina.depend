@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1731180584 source:c:\users\pichau\desktop\cruposto\postodegasolina\funcoes.c
+	"Funcoes.h"
+
+1731180538 c:\users\pichau\desktop\cruposto\postodegasolina\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1731180449 source:c:\users\pichau\desktop\cruposto\postodegasolina\main.c
+	"Funcoes.h"
+
