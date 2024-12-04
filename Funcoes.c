@@ -1,5 +1,6 @@
 #include "Funcoes.h"
 
+
 ArvBin* criarArvBin() {
     ArvBin* novaArvore = (ArvBin*)malloc(sizeof(ArvBin));
     novaArvore->raiz = NULL;
